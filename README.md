@@ -31,14 +31,14 @@ sudo apt-get install -y gcc make python3 nikto
 
 ```bash
 # Clone or download the tool
-git clone https://github.com/your-repo/privesc-analyzer.git
-cd privesc-analyzer
+git clone https://github.com/medaminkh-dev/Privilege-Escalator.git
+cd Privilege-Escalator
 
 # Make executable
 chmod +x privesc_analyzer.sh
 
 # (Optional) Install globally
-sudo cp privesc_analyzer.sh /usr/local/bin/privesc-analyzer
+sudo cp privesc_analyzer.sh /usr/local/bin/Privilege-Escalator
 ```
 
 ## Usage
